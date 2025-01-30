@@ -1,0 +1,17 @@
+div {
+    background-color: #fef7ff;
+    width: 300px;
+    border: 15px solid #ebdbff;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  p, h1, h2 {
+    color: #6a5294;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+ 
